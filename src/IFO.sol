@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.6.12;
 
-// import "../helpers/SafeMath.sol";
+import "../src/helpers/SafeMath.sol";
 
-// import "../helpers/Initializable.sol";
+import "../src/utils/Initializable.sol";
 
 import "../src/utils/ReentrancyGuard.sol";
 import "../src/utils/Initializable.sol";
